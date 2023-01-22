@@ -1,0 +1,32 @@
+.the_logo {
+  margin-right: 36px;
+}
+
+.logo_img {
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+}
+
+.orphans-section-title {
+  font-weight: bold;
+}
+
+.orphans-section-subtitle {
+  font-weight: 300;
+}
+
+.loft {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .loft {
+    text-align: left;
+  }
+}
+
+.loft span {
+  color: var(--thm-primary);
+  font-size: 14px;
+}
