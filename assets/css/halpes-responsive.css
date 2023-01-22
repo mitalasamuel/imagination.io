@@ -542,7 +542,7 @@
         bottom: 45px;
         left: 0;
         line-height: 50px;
-        text-align: center;
+        /* text-align: center; */
         right: 0;
     }
 
